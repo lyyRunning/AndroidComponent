@@ -1,0 +1,1 @@
+include ':app', ':commonlib', ':chat', ':contract', ':mine', ':home'
